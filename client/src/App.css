@@ -1,0 +1,36 @@
+.page-title {
+    display: block !important;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 10px;
+}
+.page-intro{
+    text-align: center;
+    color: #004242;
+}
+.page-teal {
+    text-align: center;
+    color: #00b5ad;
+}
+.form-container {
+    width: 400px;
+    margin: auto;
+}
+
+.ui.teal.button:focus,
+.ui.teal.buttons .button:focus {
+    background-color: #00b5ad;
+}
+
+.logo{
+    font-family: 'Marcellus',
+    serif;
+    color: #00b5ad;
+}
+.usern{
+    color: #00b5ad;
+}
+
+.opac{
+    opacity: 0.75;
+}
