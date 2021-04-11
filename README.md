@@ -6,19 +6,20 @@
 
 
 ## Introduction:
-	Team: Mercury
-	Project Name: CoviBlog
-	CoviBlog is a microblogging site where users can interact with people from different spectrums like healthcare, corporate etc. Users can post, like and comment on the blogsite, have group conversations and also view the latest COVID-19 updates.
+* Team: **Mercury**
+* Project Name: **CoviBlog - Blogsite for Covid Updates**
+* Description: CoviBlog is a microblogging site where users can interact with people from different spectrums like healthcare, corporate etc. 
+		     Users can post, like and comment on the blogsite, have group conversations and also view the latest COVID-19 updates.
 
   
 ## Demo Video Link
-	<a href='https://drive.google.com/file/d/1mtqmtxmkGlZXb-yEH8jlIlAmSi2z1AjO/view?usp=sharing'>https://drive.google.com/file/d/1mtqmtxmkGlZXb-yEH8jlIlAmSi2z1AjO/view?usp=sharing</a>
+<a href='https://drive.google.com/file/d/1mtqmtxmkGlZXb-yEH8jlIlAmSi2z1AjO/view?usp=sharing'>https://drive.google.com/file/d/1mtqmtxmkGlZXb-yEH8jlIlAmSi2z1AjO/view?usp=sharing</a>
 	
-## Presentation Lik
-	<a href='https://drive.google.com/file/d/19TAxMHcL-19vnG4Qkb_TTW3IXOzfoZU7/view?usp=sharing'>https://drive.google.com/file/d/19TAxMHcL-19vnG4Qkb_TTW3IXOzfoZU7/view?usp=sharing</a>
+## Presentation Link
+<a href='https://drive.google.com/file/d/19TAxMHcL-19vnG4Qkb_TTW3IXOzfoZU7/view?usp=sharing'>https://drive.google.com/file/d/19TAxMHcL-19vnG4Qkb_TTW3IXOzfoZU7/view?usp=sharing</a>
 
 ## Technology Stack:
-	MERNG STACK
+### MERNG STACK
   1) MongoDB
   2) Express
   3) React
