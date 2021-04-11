@@ -12,10 +12,10 @@
 
   
 ## Demo Video Link
-	https://drive.google.com/file/d/1mtqmtxmkGlZXb-yEH8jlIlAmSi2z1AjO/view?usp=sharing
+	[https://drive.google.com/file/d/1mtqmtxmkGlZXb-yEH8jlIlAmSi2z1AjO/view?usp=sharing](https://drive.google.com/file/d/1mtqmtxmkGlZXb-yEH8jlIlAmSi2z1AjO/view?usp=sharing)
 	
 ## Presentation Lik
-	https://drive.google.com/file/d/19TAxMHcL-19vnG4Qkb_TTW3IXOzfoZU7/view?usp=sharing
+	[https://drive.google.com/file/d/19TAxMHcL-19vnG4Qkb_TTW3IXOzfoZU7/view?usp=sharing](https://drive.google.com/file/d/19TAxMHcL-19vnG4Qkb_TTW3IXOzfoZU7/view?usp=sharing)
 
 ## Technology Stack:
 	MERNG STACK
