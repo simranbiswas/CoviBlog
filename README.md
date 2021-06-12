@@ -9,7 +9,7 @@
 
   
 ## Application link:
-<a href='https://coviblog-by-mercury.netlify.app/' target="_blank">https://coviblog-by-mercury.netlify.app/</a>
+<h3><a href='https://coviblog-by-mercury.netlify.app/' target="_blank">https://coviblog-by-mercury.netlify.app/</a></h3>
 
 
 ## Usage Guidelines:
