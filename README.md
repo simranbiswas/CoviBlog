@@ -41,7 +41,7 @@
     
   
 ## Demo Video Link
-<a href='https://www.youtube.com/watch?v=5N25RUgtCck'>https://www.youtube.com/watch?v=5N25RUgtCck</a>  
+<a href='https://youtu.be/n1mdAPFq2Os'>https://youtu.be/n1mdAPFq2Os</a>  
   
   
 ## Technology Stack:
