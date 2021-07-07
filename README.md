@@ -58,4 +58,4 @@
 * [Simran Biswas](https://github.com/simranbiswas) 
 * [Chelsea Dabre](https://github.com/Chelsea0608)
 
-Influenced by [https://www.youtube.com/watch?v=n1mdAPFq2Os&t=998s](https://www.youtube.com/watch?v=n1mdAPFq2Os&t=998s)
+Influenced by [https://youtu.be/n1mdAPFq2Os](https://youtu.be/n1mdAPFq2Os)
